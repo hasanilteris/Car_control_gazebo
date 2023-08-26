@@ -1,7 +1,6 @@
 from setuptools import setup
 
 package_name = 'articubot_one'
-
 setup(
     name=package_name,
     version='0.0.0',
