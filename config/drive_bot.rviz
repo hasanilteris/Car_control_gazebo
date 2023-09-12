@@ -4,6 +4,7 @@ Panels:
     Name: Displays
     Property Tree Widget:
       Expanded:
+
         - /Global Options1
         - /Status1
         - /RobotModel1
